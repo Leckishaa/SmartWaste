@@ -1,0 +1,7 @@
+0 Nothing
+1 Glass
+2 Tin
+3 Paper
+4 Cardboard
+5 Plastic
+6 General
